@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Module-Example/Pods-Module-Example-frameworks.sh
+${BUILT_PRODUCTS_DIR}/IA/IA.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework

@@ -1,0 +1,29 @@
+PODS:
+  - IA (1.0.2)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - IA (from `https://github.com/letyciamarques/IA.git`, branch `master`)
+  - SnapKit (= 5.0.1)
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  IA:
+    :branch: master
+    :git: https://github.com/letyciamarques/IA.git
+
+CHECKOUT OPTIONS:
+  IA:
+    :commit: 30ff3296e14d8f3479a5e67b079c34a1bb50af3c
+    :git: https://github.com/letyciamarques/IA.git
+
+SPEC CHECKSUMS:
+  IA: 2f1ed998d67a58cd3c410fe308a516958f0fb6a4
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: fcc1a7db55b43693cb0214a08fc1a0c4355f74cf
+
+COCOAPODS: 1.10.1
